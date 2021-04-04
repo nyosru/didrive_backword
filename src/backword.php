@@ -9,7 +9,7 @@ namespace didrive;
 //if (!defined('IN_NYOS_PROJECT'))
 //    throw new \Exception('Сработала защита от розовых ха+1керов, обратитесь к администрратору');
 // final class Error extends Result
-class Backword {
+class backword {
 
 // public static $var = 1;
 
